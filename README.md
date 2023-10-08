@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hey, I'm Yousef Al-Wahami</h1>
 <h3 align="center">A CS student from Canada</h3>
 
-<h3 align="center">📖 Currently learning C# with Unity</h3>
+<h3 align="center">📖 Currently learning Godot</h3>
 
 
 
