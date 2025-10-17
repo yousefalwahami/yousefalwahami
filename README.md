@@ -15,7 +15,7 @@ Smart real-time hazard detection using V2V and V2X to alert autonomous vehicles,
 
 <h2 align="left">📫 Connect with me</h1>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yousef-al-wahami) [![Personal Portfolio](https://img.shields.io/badge/Personal%20Portfolio-green)](yousefalwahami.com) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/yyahamaii)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yousef-al-wahami) [![Personal Portfolio](https://img.shields.io/badge/Personal%20Portfolio-green)](https://yousefalwahami.com/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/yyahamii)
 
 <h2 align="left">💻 Tech Stack</h1>
 
